@@ -35,8 +35,8 @@ html
     height: 100%;
     font-family: century-gothic, sans-serif;
     font-size: 1em;
-    background-color: #1a6078;
-    background: url("images/web-bg.jpg") no-repeat center center fixed; 
+    background-color: #1a6a89;
+    background: url("images/web-bg2.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -75,7 +75,7 @@ ul
     left: 0;
     font-size: 1em;
     color: #dec493;
-    background-color: #272729;
+    background-color: #171719;
     top: 0;
     -webkit-transition: top 300ms, background-color 300ms;
     transition: top 300ms, background-color 300ms;
@@ -90,7 +90,7 @@ li
     text-align: center;
     letter-spacing: 0.05em;
     overflow: hidden;
-    color: #ff7223;
+    color: #33a8c1;
     -webkit-transition: height 100ms, color 100ms, background-color 100ms;
     transition: height 100ms, color 100ms, background-color 100ms;
 }
@@ -104,8 +104,8 @@ ul.submenu
 
 .bar_subitem
 {
-    background-color: #272729;
-    color: #ff7223;
+    background-color: #171719;
+    color: #33a8c1;
     -webkit-transition: color 100ms, background-color 100ms;
     transition: color 100ms, background-color 100ms;
 }
@@ -125,6 +125,7 @@ ul.submenu
     transition: height 100ms, color 100ms, background-color 100ms;
 }
 
+
 .bar_item:hover, .bar_subitem:hover
 {
     cursor: pointer;
@@ -135,45 +136,58 @@ ul.submenu
 }
 
 
-
-#media_big
+.listen-menu
 {
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    font-size: 2em;
+    background-color: #ff7223;
+    color: #272729;
+    width: 560px;
+}
+
+.listen-menu:hover
+{
+    color: #ff7223;
+    background-color: #272729;
+    -webkit-transition: color 100ms, background-color 100ms;
+    transition: color 100ms, background-color 100ms;
+}
+
+
+.listen-menu:hover .listen-dropdown {
+  display: block;
+}
+
+.listen-dropdown {
+    margin-top: -400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: none;
     position: absolute;
+    padding: 0;
     z-index: 1;
 }
 
 
-
-.button
+.service-logo
 {
-    float: left;
-    font-size: 1em;
-    line-height: 1.75em;
-    height: 1.75em;
-    padding-left: 1em;
-    padding-right: 1em;
-    text-align: center;
-    letter-spacing: 0.05em;
-    overflow: hidden;
-    margin: 0;
+    width: 300px;
+}
+
+.play-service
+{
+    cursor: pointer;
     display: block;
-    color: #dec493;
-    background-color: #272729;
-    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
-    transition: height 100ms, color 100ms, background-color 100ms;
+    cursor: pointer;
+    width: 560px;
+    background-color: #33a8c1;
 }
 
-.button:hover
+.play-service:hover
 {
-    color: #272729;
-    background-color: #dec493;
-    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
-    transition: height 100ms, color 100ms, background-color 100ms;
+    background-color: #ff7223;
 }
+
 
 #bg
 {
@@ -183,33 +197,7 @@ ul.submenu
     z-index: 1;
 }
 
-#profiles
-{
-    position: absolute;
-    top:0;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-}
-
-.profile-img
-{
-    height: 100%;
-}
-
-.right
-{
-    transform: rotate(180deg);
-}
-
-.profile
-{
-    height: 100%;
-}
-
-#middle
+#container
 {
     position: absolute;
     top:0;
@@ -217,6 +205,7 @@ ul.submenu
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     position: relative;
     height: 100%;
     margin: auto;
@@ -225,32 +214,8 @@ ul.submenu
     text-align: center;
     overflow: visible;
     white-space:nowrap;
-    text-shadow: 1px 1px rgba(0,0,0,0.5);
 }
 
-.follow-icon-container
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-
-.follow-icon
-{
-    width: 30px;
-    height: 30px;
-    margin: 10px;
-}
-
-.follow-ins { background-image: url("images/instagram-gold.png"); background-size: cover; }
-.follow-twi { background-image: url("images/twitter-gold.png"); background-size: cover; }
-.follow-fbk { background-image: url("images/facebook-gold.png"); background-size: cover; }
-.follow-sub { background-image: url("images/mail-gold.png"); background-size: cover; }
-
-.follow-ins:hover { background-image: url("images/instagram-red.png"); }
-.follow-twi:hover { background-image: url("images/twitter-red.png"); }
-.follow-fbk:hover { background-image: url("images/facebook-red.png"); }
-.follow-sub:hover { background-image: url("images/mail-red.png"); }
 
 
 h2.ep-title
@@ -268,7 +233,6 @@ h2.ep-title
 .fix_bottom
 {
     bottom: 0;
-    z-index: 20;
     display: fixed;
     position: absolute;
     width: 100%;    
