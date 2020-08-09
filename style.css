@@ -1,0 +1,331 @@
+.red-text
+{
+    color: #d84a36;
+}
+
+* { margin: 0; padding: 0; border: 0; }
+
+a
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+a.media
+{
+    color: #dd4836;
+}
+
+a.media:hover
+{
+    text-decoration: underline;
+}
+
+a.titles:hover
+{
+    text-decoration: underline;
+}
+
+
+html
+{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: century-gothic, sans-serif;
+    font-size: 1em;
+    background-color: #1a6078;
+    background: url("images/web-bg.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+
+body
+{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #272729;
+    background-color: transparent;
+}
+
+ul li nav {
+   margin:0;
+   padding: 0;
+   text-indent: 0;
+   list-style-type: none;
+   list-style: none;
+}
+
+
+ul
+{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    height: 2em;
+    z-index: 30;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    font-size: 1em;
+    color: #dec493;
+    background-color: #272729;
+    top: 0;
+    -webkit-transition: top 300ms, background-color 300ms;
+    transition: top 300ms, background-color 300ms;
+}
+
+li
+{
+    flex: 1;
+    font-size: 1.5em;
+    line-height: 1.25em;
+    height: 100%;
+    text-align: center;
+    letter-spacing: 0.05em;
+    overflow: hidden;
+    color: #ff7223;
+    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
+    transition: height 100ms, color 100ms, background-color 100ms;
+}
+
+ul.submenu
+{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+}
+
+.bar_subitem
+{
+    background-color: #272729;
+    color: #ff7223;
+    -webkit-transition: color 100ms, background-color 100ms;
+    transition: color 100ms, background-color 100ms;
+}
+
+#connect
+{
+    cursor: crosshair;
+}
+
+#connect:hover, .follow_click
+{
+    cursor: crosshair;
+    height: 380%;
+    background-color: #272729;
+    color: #ff7223;
+    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
+    transition: height 100ms, color 100ms, background-color 100ms;
+}
+
+.bar_item:hover, .bar_subitem:hover
+{
+    cursor: pointer;
+    color: #002729;
+    background-color: #ff7223;
+    -webkit-transition: color 100ms, background-color 100ms;
+    transition: color 100ms, background-color 100ms;
+}
+
+
+
+#media_big
+{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+
+
+.button
+{
+    float: left;
+    font-size: 1em;
+    line-height: 1.75em;
+    height: 1.75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+    letter-spacing: 0.05em;
+    overflow: hidden;
+    margin: 0;
+    display: block;
+    color: #dec493;
+    background-color: #272729;
+    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
+    transition: height 100ms, color 100ms, background-color 100ms;
+}
+
+.button:hover
+{
+    color: #272729;
+    background-color: #dec493;
+    -webkit-transition: height 100ms, color 100ms, background-color 100ms;
+    transition: height 100ms, color 100ms, background-color 100ms;
+}
+
+#bg
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+#profiles
+{
+    position: absolute;
+    top:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.profile-img
+{
+    height: 100%;
+}
+
+.right
+{
+    transform: rotate(180deg);
+}
+
+.profile
+{
+    height: 100%;
+}
+
+#middle
+{
+    position: absolute;
+    top:0;
+    z-index: 12;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    color: #dec493;
+    font-size: 1em;
+    text-align: center;
+    overflow: visible;
+    white-space:nowrap;
+    text-shadow: 1px 1px rgba(0,0,0,0.5);
+}
+
+.follow-icon-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.follow-icon
+{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.follow-ins { background-image: url("images/instagram-gold.png"); background-size: cover; }
+.follow-twi { background-image: url("images/twitter-gold.png"); background-size: cover; }
+.follow-fbk { background-image: url("images/facebook-gold.png"); background-size: cover; }
+.follow-sub { background-image: url("images/mail-gold.png"); background-size: cover; }
+
+.follow-ins:hover { background-image: url("images/instagram-red.png"); }
+.follow-twi:hover { background-image: url("images/twitter-red.png"); }
+.follow-fbk:hover { background-image: url("images/facebook-red.png"); }
+.follow-sub:hover { background-image: url("images/mail-red.png"); }
+
+
+h2.ep-title
+{
+    font-size: 3.6em;
+    font-weight: normal;
+    text-shadow: 2px 2px rgba(0,0,0,0.5);
+}
+
+.middle-text
+{
+
+}
+
+.fix_bottom
+{
+    bottom: 0;
+    z-index: 20;
+    display: fixed;
+    position: absolute;
+    width: 100%;    
+}
+
+/*@media screen and (max-width:830px), screen and (max-height:450px)*/
+@media only screen and (max-device-width: 480px)
+{
+
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px)
+{
+
+
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    html
+    {
+        font-size: 0.7em;
+    }
+
+    #middle
+    {
+        font-size: 1.4em;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-height : 320px) {
+    html
+    {
+        font-size: 0.8em;
+    }
+    #middle
+    {
+        font-size: 1em;
+    }
+}
+
+
+@media (min-aspect-ratio: 1/1) {
+    #profiles
+    {
+        justify-content: space-between;
+    }
+}
