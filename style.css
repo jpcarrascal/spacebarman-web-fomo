@@ -36,7 +36,7 @@ html
     font-family: century-gothic, sans-serif;
     font-size: 1em;
     background-color: #1a6a89;
-    background: url("images/web-bg2.jpg") no-repeat center center fixed; 
+    background: url("images/web-bg.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -119,7 +119,7 @@ ul.submenu
 {
     cursor: crosshair;
     height: 380%;
-    background-color: #272729;
+    background-color: #171719;
     color: #ff7223;
     -webkit-transition: height 100ms, color 100ms, background-color 100ms;
     transition: height 100ms, color 100ms, background-color 100ms;
@@ -180,7 +180,9 @@ ul.submenu
     display: block;
     cursor: pointer;
     width: 560px;
-    background-color: #33a8c1;
+    background-color: #1388a1;
+    padding: 0;
+    margin: 0;
 }
 
 .play-service:hover
