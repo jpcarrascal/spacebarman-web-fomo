@@ -63,7 +63,7 @@
 </div>
 
 
-<img id="logo" src="../images/spacebarman-logo.png" />
+<img id="logo" src="../images/spacebarman-logo-blue.png" />
 
 
 <div id="bg" class="bg">    
@@ -71,6 +71,7 @@
     <img class="hero-img" src="../images/band-hero.jpg" />
     
     <div id="container">
+
         <div class="middle-text">
             <h2>Spacebarman - Bio</h2>
             <br />
@@ -86,9 +87,7 @@
             <p>
             Dreamcatcher fixie gentrify shaman. Irony fanny pack yuccie kale chips fingerstache put a bird on it. Small batch copper mug seitan palo santo roof party, umami messenger bag. Deep v helvetica chia swag freegan, williamsburg hexagon kinfolk etsy. Paleo marfa photo booth polaroid, craft beer church-key sustainable tumblr chambray. Dreamcatcher pitchfork celiac yuccie, readymade plaid flannel chia.
             </p>
-
         </div>
-
     </div>
 
 </div>
