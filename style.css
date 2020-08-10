@@ -1,7 +1,9 @@
-.red-text
-{
-    color: #d84a36;
-}
+/* COLORS:
+Dark background: #171719;
+Blue background: #1a6a89;
+Light blue: #33a8c1;
+Orange: #ff7223;
+*/
 
 * { margin: 0; padding: 0; border: 0; }
 
@@ -102,12 +104,12 @@ ul.submenu
     transition: color 100ms, background-color 100ms;
 }
 
-#connect
+#follow
 {
     cursor: crosshair;
 }
 
-#connect:hover, .follow_click
+#follow:hover, .follow_click
 {
     cursor: crosshair;
     height: 380%;
