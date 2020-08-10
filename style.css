@@ -54,14 +54,6 @@ body
     background-color: transparent;
 }
 
-ul li nav {
-   margin:0;
-   padding: 0;
-   text-indent: 0;
-   list-style-type: none;
-   list-style: none;
-}
-
 
 ul
 {
@@ -70,7 +62,7 @@ ul
     justify-content: space-evenly;
     height: 2em;
     z-index: 30;
-    position: absolute;
+    position: fixed;
     width: 100%;
     left: 0;
     font-size: 1em;
@@ -211,11 +203,10 @@ ul.submenu
     position: relative;
     height: 100%;
     margin: auto;
-    color: #dec493;
     font-size: 1em;
     text-align: center;
     overflow: visible;
-    white-space:nowrap;
+    /*white-space:nowrap;*/
 }
 
 
@@ -227,18 +218,6 @@ h2.ep-title
     text-shadow: 2px 2px rgba(0,0,0,0.5);
 }
 
-.middle-text
-{
-
-}
-
-.fix_bottom
-{
-    bottom: 0;
-    display: fixed;
-    position: absolute;
-    width: 100%;    
-}
 
 /*@media screen and (max-width:830px), screen and (max-height:450px)*/
 @media only screen and (max-device-width: 480px)

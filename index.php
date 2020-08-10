@@ -29,33 +29,33 @@
 
 <body>
 
-<div id="top_bar" class="top_bar">
+<div id="top-bar" class="top-bar">
     <nav>
     <ul>
         <li class="bar_item media" text="bio"  id="music">
-        <a href="bio/" target=_blank>
+        <a href="bio/">
             Bio
         </a>
         </li>
     
         <li class="bar_item media" text="video" id="videos">
-        <a href="https://www.youtube.com/user/spacebarmanvideo" target=_blank>
+        <a href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">
             Video
         </a>
         </li>
 
         <li class="bar_item media" text="subscribe" id="photos">
-        <a href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target=_blank>
+        <a href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">
             Subscribe
         </a>
         </li>
   
-        <li class="bar_item" id="connect">     
+        <li class="bar_item" id="follow">     
             Follow
             <div class="submenu">
-                <a href="https://www.instagram.com/spacebarman/" target=_blank><div class="bar_subitem">Instagram</div></a>
-                <a href="https://facebook.com/spacebarman" target=_blank><div class="bar_subitem">Facebook</div></a>
-                <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target=_blank><div class="bar_subitem">Twitter</div></a>
+                <a href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar_subitem">Instagram</div></a>
+                <a href="https://facebook.com/spacebarman" target="_blank"><div class="bar_subitem">Facebook</div></a>
+                <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar_subitem">Twitter</div></a>
         </li>
     </ul>
     </nav>
@@ -66,10 +66,7 @@
 <div id="bg" class="bg">    
     
     <div id="container">
-        <div class="middle-text">
-        </div>
-        
-        <div class="middle-text">
+        <div>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
