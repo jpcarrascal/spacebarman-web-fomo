@@ -89,16 +89,15 @@
                     Dreamcatcher fixie gentrify shaman. Irony fanny pack yuccie kale chips fingerstache put a bird on it. Small batch copper mug seitan palo santo roof party, umami messenger bag. Deep v helvetica chia swag freegan, williamsburg hexagon kinfolk etsy. Paleo marfa photo booth polaroid, craft beer church-key sustainable tumblr chambray. Dreamcatcher pitchfork celiac yuccie, readymade plaid flannel chia.
                     </p>
                     <br />
-                    Header Photo: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                    Band Photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
                 </div>
             </div>
             <div class="photos column">
                 <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-01-small.jpg" /></a>
-                <span class="photo-credit">Photo: <a href="http://www.julietaferoz.com/">Julieta Feroz</a></span>
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-02-small.jpg" /></a>
-                <span class="photo-credit">Photo: <a href="http://www.julietaferoz.com/">Julieta Feroz</a></span>
+                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-live-02-small.jpg" /></a>
+                <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-live-01-small.jpg" /></a>
                 <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-03-small.jpg" /></a>
-                <span class="photo-credit">Photo: <a href="http://www.julietaferoz.com/">Julieta Feroz</a></span>
             </div>
 
         </div>

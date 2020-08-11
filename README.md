@@ -14,3 +14,7 @@ Contenido
 fotos
 presskit
 Rider
+
+### Link aggregators:
+https://www.toneden.io/
+https://www.linkfire.com/
