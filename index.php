@@ -32,30 +32,27 @@
 <div id="top-bar" class="top-bar">
     <nav>
     <ul>
-        <li class="bar_item media" text="bio"  id="music">
-        <a href="bio/">
-            Bio
-        </a>
+        <li class="bar-item submenu">     
+            <a class="menu-link" href="bio/">
+                Bio
+            </a>
         </li>
     
-        <li class="bar_item media" text="video" id="videos">
-        <a href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">
-            Video
-        </a>
+        <li class="bar-item media" text="video" id="videos">
+            <a class="menu-link" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
         </li>
 
-        <li class="bar_item media" text="subscribe" id="photos">
-        <a href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">
-            Subscribe
-        </a>
+        <li class="bar-item media" text="subscribe" id="photos">
+            <a class="menu-link" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
         </li>
   
-        <li class="bar_item" id="follow">     
+        <li class="bar-item submenu">
             Follow
-            <div class="submenu">
-                <a href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar_subitem">Instagram</div></a>
-                <a href="https://facebook.com/spacebarman" target="_blank"><div class="bar_subitem">Facebook</div></a>
-                <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar_subitem">Twitter</div></a>
+            <div class="submenu-dropdown">
+                <a class="menu-link" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
+                <a class="menu-link" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
+                <a class="menu-link" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
+            </div>
         </li>
     </ul>
     </nav>

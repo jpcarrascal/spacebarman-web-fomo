@@ -25,12 +25,9 @@ body
 .middle-text
 {
     text-align: left;
-    width: 50%;
     overflow: wrap;
     word-break: break-word;
-    color: #EEEEEE;
     background-color: #171719;
-    padding: 3em;
     margin: 0;
 }
 
@@ -41,4 +38,31 @@ body
     left: 4em;
     width: 8%;
     z-index: 10;
+}
+
+.two-column
+{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.other-photos
+{
+    width: 80%;
+}
+
+.column
+{
+    padding: 3em;
+    width: 50%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+}
+
+.photo-credit
+{
+    margin-bottom: 2em;
 }
