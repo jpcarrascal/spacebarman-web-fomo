@@ -234,11 +234,6 @@ h2.ep-title
     {
         font-size: 0.7em;
     }
-
-    #middle
-    {
-        font-size: 1.4em;
-    }
 }
 
 /* Smartphones (landscape) ----------- */
@@ -253,20 +248,5 @@ h2.ep-title
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-height : 320px) {
-    html
-    {
-        font-size: 0.8em;
-    }
-    #middle
-    {
-        font-size: 1em;
-    }
-}
 
-
-@media (min-aspect-ratio: 1/1) {
-    #profiles
-    {
-        justify-content: space-between;
-    }
 }

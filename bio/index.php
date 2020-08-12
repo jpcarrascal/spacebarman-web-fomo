@@ -52,9 +52,7 @@
 </nav>
 
 
-<a href="..">
-<img id="logo" src="../images/spacebarman-logo-blue.png" />
-</a>
+<a href="/"><img id="logo" src="../images/spacebarman-logo-blue.png" /></a>
 
 <div id="bg" class="bg">    
 
