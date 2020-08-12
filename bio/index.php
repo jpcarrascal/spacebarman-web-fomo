@@ -30,45 +30,36 @@
 
 <body>
 
-<div id="top-bar" class="top-bar">
-    <nav>
-    <ul>
-        <li class="bar-item submenu">     
-            Download
-            <div class="submenu-dropdown">
-                <a class="menu-link" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit</div></a>
-                <a class="menu-link" href="../docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
-            </div>
-        </li>
-    
-        <li class="bar-item media" text="video" id="videos">
-            <a class="menu-link" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
-        </li>
-
-        <li class="bar-item media" text="subscribe" id="photos">
-            <a class="menu-link" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
-        </li>
-  
-        <li class="bar-item submenu">
-            Follow
-            <div class="submenu-dropdown">
-                <a class="menu-link" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
-                <a class="menu-link" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
-                <a class="menu-link" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
-            </div>
-        </li>
-    </ul>
-    </nav>
-</div>
+<nav id="top-bar" class="menu-bar">
+    <div class="submenu bar-item">
+        Download
+        <div class="submenu-dropdown">
+            <a class="bar-item" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
+            <a class="bar-item" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
+            <a class="bar-item" href="../docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
+        </div>
+    </div>
+    <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
+    <a class="bar-item" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
+    <div class="submenu bar-item">
+        Follow
+        <div class="submenu-dropdown">
+            <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
+            <a class="bar-item" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
+            <a class="bar-item" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
+        </div>
+    </div>
+</nav>
 
 
+<a href="..">
 <img id="logo" src="../images/spacebarman-logo-blue.png" />
-
+</a>
 
 <div id="bg" class="bg">    
 
     <img class="hero-img" src="../images/Spacebarman-band-hero.jpg" />
-    
+
     <div id="container">
 
         <div class="two-column">
@@ -88,7 +79,7 @@
                     Dreamcatcher fixie gentrify shaman. Irony fanny pack yuccie kale chips fingerstache put a bird on it. Small batch copper mug seitan palo santo roof party, umami messenger bag. Deep v helvetica chia swag freegan, williamsburg hexagon kinfolk etsy. Paleo marfa photo booth polaroid, craft beer church-key sustainable tumblr chambray. Dreamcatcher pitchfork celiac yuccie, readymade plaid flannel chia.
                     </p>
                     <br />
-                    Band Photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                    Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
                 </div>
                 <div class="middle-text">
                 <br />

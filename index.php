@@ -29,34 +29,20 @@
 
 <body>
 
-<div id="top-bar" class="top-bar">
-    <nav>
-    <ul>
-        <li class="bar-item submenu">     
-            <a class="menu-link" href="bio/">
-                Bio
-            </a>
-        </li>
-    
-        <li class="bar-item media" text="video" id="videos">
-            <a class="menu-link" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
-        </li>
+<nav id="top-bar" class="menu-bar">
+    <a class="bar-item" href="bio/">Bio</a>
+    <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
+    <a class="bar-item" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
+    <div class="submenu bar-item">
+        Follow
+        <div class="submenu-dropdown">
+            <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
+            <a class="bar-item" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
+            <a class="bar-item" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
+        </div>
+    </div>
+</nav>
 
-        <li class="bar-item media" text="subscribe" id="photos">
-            <a class="menu-link" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
-        </li>
-  
-        <li class="bar-item submenu">
-            Follow
-            <div class="submenu-dropdown">
-                <a class="menu-link" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
-                <a class="menu-link" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
-                <a class="menu-link" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
-            </div>
-        </li>
-    </ul>
-    </nav>
-</div>
 
 
 
@@ -70,12 +56,29 @@
         <div class="listen-menu">
             Listen
             <div class="listen-dropdown">
-                <div class="play-service"><img class="service-logo" src="images/logo-spotify.png" /></div>
-                <div class="play-service"><img class="service-logo" src="images/logo-youtubemusic.png" /></div>
-                <div class="play-service"><img class="service-logo" src="images/logo-applemusic.png" /></div>
-                <div class="play-service"><img class="service-logo" src="images/logo-deezer.png" /></div>
-                <div class="play-service"><img class="service-logo" src="images/logo-amazon.png" /></div>
-                <div class="play-service"><img class="service-logo" src="images/logo-soundcloud.png" /></div>
+                <div class="play-service">
+                    <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
+                </div>
+
+                <div class="play-service">
+                <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
+                </div>
             </div>
             
         </div>

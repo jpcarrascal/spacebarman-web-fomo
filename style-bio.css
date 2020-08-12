@@ -95,6 +95,10 @@ body
     height: 100%;
 }
 
+.download-bar
+{
+    display: block;
+}
 
 @media only screen and (min-width : 1024px) {
     .two-column

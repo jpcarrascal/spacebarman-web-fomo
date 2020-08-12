@@ -17,10 +17,6 @@ p, h2
     margin-bottom: 1em;
 }
 
-a.menu-link
-{
-    text-decoration: none;
-}
 
 html
 {
@@ -45,37 +41,45 @@ body
     width: 100%;
     height: 100%;
     overflow: hidden;
-    color: #EEEEEE;
+    color: #DDD;
     background-color: transparent;
 }
 
-
-ul
+#top-bar
 {
+    top: 0;
+    position: fixed;
+}
+
+.menu-bar
+{
+    z-index: 30;
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-evenly;
-    height: 2em;
-    z-index: 30;
-    position: fixed;
+    height: 1.25em;
     width: 100%;
     left: 0;
-    font-size: 1em;
+    font-size: 1.5em;
+    line-height: 1.25em;
     background-color: #171719;
-    top: 0;
     -webkit-transition: top 300ms, background-color 300ms;
     transition: top 300ms, background-color 300ms;
 }
 
-li
+.current
 {
+    color: #ff7223;
+}
+
+.bar-item
+{
+    text-decoration: none;
+    display: block;
     flex: 1;
-    font-size: 1.5em;
-    line-height: 1.25em;
     height: 100%;
     text-align: center;
     letter-spacing: 0.05em;
-    list-style: none;
     color: #33a8c1;
     -webkit-transition: height 100ms, color 100ms, background-color 100ms;
     transition: height 100ms, color 100ms, background-color 100ms;
@@ -114,7 +118,6 @@ li
 
 .bar-item:hover, .bar-subitem:hover
 {
-    cursor: pointer;
     color: #002729;
     background-color: #ff7223;
     -webkit-transition: color 100ms, background-color 100ms;
@@ -162,9 +165,7 @@ li
 
 .play-service
 {
-    cursor: pointer;
     display: block;
-    cursor: pointer;
     width: 560px;
     background-color: #1388a1;
     padding: 0;
@@ -179,7 +180,7 @@ li
 
 #bg
 {
-    top: 2em;
+    top: 1.5em;
     width: 100%;
     height: 100%;
     position: relative;
