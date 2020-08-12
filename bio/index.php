@@ -34,7 +34,7 @@
     <nav>
     <ul>
         <li class="bar-item submenu">     
-            Press
+            Download
             <div class="submenu-dropdown">
                 <a class="menu-link" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit</div></a>
                 <a class="menu-link" href="../docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
@@ -74,30 +74,49 @@
         <div class="two-column">
             <div class="column">
                 <div class="middle-text">
-                    <h2>Spacebarman - Bio</h2>
-                    <br />
+                    <h2>Bio</h2>
                     <p>
                     I'm baby semiotics humblebrag gluten-free kitsch, edison bulb intelligentsia neutra umami ethical. Twee yuccie neutra woke locavore sustainable jianbing hella pitchfork tumblr palo santo succulents ennui meggings occupy. Enamel pin street art health goth air plant williamsburg man braid. Kale chips wayfarers put a bird on it iPhone, biodiesel migas godard meggings salvia bespoke. Lumbersexual church-key tilde stumptown narwhal put a bird on it sriracha cold-pressed sustainable affogato 90's fashion axe raw denim synth vaporware. Lo-fi tumeric fanny pack wolf letterpress, brunch wayfarers flannel literally celiac air plant whatever VHS bespoke. Pitchfork sriracha celiac YOLO, glossier flannel fam godard bespoke literally poke single-origin coffee freegan chicharrones.
-                    </p><br />
+                    </p>
                     <p>
                     Ramps celiac af gochujang lyft, cardigan selvage meditation scenester PBR&B unicorn whatever hot chicken twee. Gochujang pickled pour-over you probably haven't heard of them. Vexillologist swag slow-carb, la croix disrupt microdosing 8-bit skateboard quinoa. Marfa tattooed af quinoa letterpress butcher copper mug vegan single-origin coffee roof party health goth 8-bit. Cloud bread photo booth before they sold out put a bird on it, hexagon paleo gluten-free cliche dreamcatcher flannel man bun plaid ennui. Cold-pressed synth farm-to-table, before they sold out hashtag bitters poutine snackwave lo-fi shaman sartorial direct trade keytar.
-                    </p><br />
+                    </p>
                     <p>
                     Scenester keffiyeh bitters lomo unicorn, fingerstache venmo kinfolk. Vape farm-to-table kombucha, fanny pack chicharrones cardigan tbh la croix everyday carry. Art party pabst hoodie wolf DIY trust fund mixtape live-edge yr cliche flannel. Palo santo adaptogen sustainable meh polaroid retro art party knausgaard ramps everyday carry occupy selfies snackwave.
-                    </p><br />
+                    </p>
                     <p>
                     Dreamcatcher fixie gentrify shaman. Irony fanny pack yuccie kale chips fingerstache put a bird on it. Small batch copper mug seitan palo santo roof party, umami messenger bag. Deep v helvetica chia swag freegan, williamsburg hexagon kinfolk etsy. Paleo marfa photo booth polaroid, craft beer church-key sustainable tumblr chambray. Dreamcatcher pitchfork celiac yuccie, readymade plaid flannel chia.
                     </p>
                     <br />
                     Band Photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
                 </div>
+                <div class="middle-text">
+                <br />
+                <br />
+                <h2>Videos</h2>
+                    <div class="video-container">
+                        <iframe class="video" src="https://www.youtube.com/embed/2qFQpK_iDQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="video-container">
+                        <iframe class="video" src="https://www.youtube.com/embed/DElvvwSInLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="video-container">
+                        <iframe class="video" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="video-container">
+                        <iframe class="video" src="https://www.youtube.com/embed/Aq_jz-u7IJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
-            <div class="photos column">
-                <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-01-small.jpg" /></a>
-                <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-02-small.jpg" /></a>
-                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-live-02-small.jpg" /></a>
-                <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-live-01-small.jpg" /></a>
-                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="other-photos" src="../images/Spacebarman-band-03-small.jpg" /></a>
+            <div class="column">
+                <div class="middle-text">
+                    <h2>Photos</h2>
+                </div>
+                <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" /></a>
+                <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" /></a>
+                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" /></a>
+                <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" /></a>
+                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-03-small.jpg" /></a>
             </div>
 
         </div>

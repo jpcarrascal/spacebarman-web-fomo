@@ -12,6 +12,11 @@ a
     color: inherit;
 }
 
+p, h2
+{
+    margin-bottom: 1em;
+}
+
 a.menu-link
 {
     text-decoration: none;
