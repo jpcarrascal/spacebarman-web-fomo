@@ -40,8 +40,17 @@ body
     z-index: 10;
 }
 
+
+#container
+{
+    flex-direction: row;
+    justify-content: center;
+}
+
+
 .two-column
 {
+    width: 80%;
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-evenly;
@@ -50,7 +59,7 @@ body
 
 .other-photos
 {
-    width: 80%;
+    width: 100%;
 }
 
 .column
@@ -66,3 +75,18 @@ body
 {
     margin-bottom: 2em;
 }
+
+
+/* Smartphones (portrait) ----------- */
+/*
+@media only screen and (min-width : 480px) {
+    .two-column
+    {
+        width: 80%;
+    }
+
+    .column
+    {
+    padding: 1em;
+    }
+}*/
