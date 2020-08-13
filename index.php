@@ -54,8 +54,7 @@
         </div>
 
         <div class="listen-menu">
-            Listen
-            <div class="listen-dropdown">
+        <div class="listen-dropdown">
                 <div class="play-service">
                     <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
                 </div>
@@ -80,6 +79,8 @@
                     <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
                 </div>
             </div>
+
+            Listen
             
         </div>
 
