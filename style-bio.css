@@ -34,9 +34,9 @@ body
 #logo
 {
     position: absolute;
-    top: 4em;
+    top: 5em;
     left: 4em;
-    width: 8%;
+    width: 10%;
     z-index: 10;
 }
 

@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="https://use.typekit.net/oov2wcw.css">
     <link href="reset.css" type="text/css" rel="stylesheet"/>
     <link href="style.css" type="text/css" rel="stylesheet"/>
+    <script src="scripts.js"></script>
 </head>
 
 
@@ -33,7 +34,7 @@
     <a class="bar-item" href="bio/">Bio</a>
     <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
     <a class="bar-item" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
-    <div class="submenu bar-item">
+    <div class="bar-item submenu">
         Follow
         <div class="submenu-dropdown">
             <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
@@ -53,8 +54,11 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
-        <div class="listen-menu">
-        <div class="listen-dropdown">
+        <div class="listen-menu" id="listen-button">
+        <div class="listen-dropdown" id="listen-dropdown">
+                <div class="play-service" id="close-dropdown">
+                    &times;
+                </div>
                 <div class="play-service">
                     <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
                 </div>
