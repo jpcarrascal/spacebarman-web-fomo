@@ -8,6 +8,11 @@ html
 body
 {
     overflow-y: scroll;
+    display: flex;
+    min-height: 100vh;
+    width: auto;
+    height: auto;
+    flex-direction: column;
 }
 
 #container
@@ -98,6 +103,21 @@ body
 .download-bar
 {
     display: block;
+}
+
+#footer
+{
+
+    width: 100%;
+    background-color: #272729;
+    margin: 0;
+    padding: 3em;
+    line-height: 1.5em;
+}
+
+#footer a:hover
+{
+    color: #ff7223;
 }
 
 @media only screen and (min-width : 1024px) {

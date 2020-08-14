@@ -34,8 +34,8 @@
     <div class="submenu bar-item">
         Download
         <div class="submenu-dropdown">
-            <a class="bar-item" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
-            <a class="bar-item" href="../docs/Spacebarman-dossier.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
+            <a class="bar-item" href="../docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
+            <a class="bar-item" href="../docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
             <a class="bar-item" href="../docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
         </div>
     </div>
@@ -112,8 +112,15 @@
 
     </div>
 
+
+
 </div>
 
+<div id="footer">
+    Email us: <a href="mailto:info@spacebarman">info [at] spacebarman [dot] com</a> <br />
+    Management and booking: <a href="mailto:info@spacebarman">management [at] spacebarman [dot] com</a> <br />
+    Design: <a href="http://www.jpcarrascal.com" tarhet="_blank">JP Carrascal</a> <br />
+</div>
 
 
 <link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#1a6a89","text":"#ffffff","border":"#fde296"},"button":{"background":"#4ccae5","text":"#1a1a1a"}},"position":"bottom","padding":"small","content":{"href":"https://www.websitepolicies.com/policies/view/pv0EWq3z","message":"Spacebarman.com uses cookies to ensure you get the best experience on our website"}})});</script>
