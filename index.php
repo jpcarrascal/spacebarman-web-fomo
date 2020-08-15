@@ -54,40 +54,44 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <div class="listen-menu" id="listen-button">
-    <div class="listen-dropdown" id="listen-dropdown">
-            <div class="play-service" id="close-dropdown">
-                &times;
-            </div>
-            <div class="play-service">
-                <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
+    <div class="ctas">
+        <div class="listen-button cta-button" id="listen-button">
+        <div class="listen-dropdown" id="listen-dropdown">
+                <div class="play-service" id="close-dropdown">
+                    &times;
+                </div>
+                <div class="play-service">
+                    <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
+                </div>
+
+                <div class="play-service">
+                <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
+                </div>
+
+                <div class="play-service">
+                    <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
+                </div>
             </div>
 
-            <div class="play-service">
-                <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
-            </div>
-
-            <div class="play-service">
-            <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
-            </div>
-
-            <div class="play-service">
-                <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
-            </div>
-
-            <div class="play-service">
-                <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
-            </div>
-
-            <div class="play-service">
-                <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
-            </div>
+            Listen
+            
         </div>
-
-        Listen
-        
+        <div class="cta-button" id="watch-button">
+            <a href="https://lockdown-vr.glitch.me/" target="_brank">Watch VR video</a>
+        </div>
     </div>
-
 </div>
 
 
