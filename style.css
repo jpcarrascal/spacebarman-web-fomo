@@ -27,15 +27,19 @@ html
     font-family: century-gothic, sans-serif;
     font-size: 1em;
     background-color: #1a6a89;
-    background: url("images/web-bg.jpg") no-repeat center center fixed; 
+    background: url("images/web-bg.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;    
+    background-size: cover;
 }
 
 body
 {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
     padding: 0;
     margin: 0;
     width: 100%;
@@ -186,21 +190,8 @@ body
     background-color: #ff7223;
 }
 
-
-#bg
-{
-    flex: 1;
-    top: 1.5em;
-    width: 100%;
-    height: 100%;
-    min-height: 100vh;
-    position: relative;
-    z-index: 1;
-}
-
 #container
 {
-    position: absolute;
     top:0;
     z-index: 12;
     display: flex;
@@ -209,7 +200,6 @@ body
     align-items: center;
     position: relative;
     height: 100%;
-    margin: auto;
     font-size: 1em;
     text-align: center;
     overflow: visible;
@@ -225,6 +215,22 @@ h2.ep-title
     text-shadow: 2px 2px rgba(0,0,0,0.5);
 }
 
+.footer
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 0;
+}
+
+.spacebarman-description
+{
+    display: block;
+    color: #474749;
+    padding: 1em;
+}
 
 /*@media screen and (max-width:830px), screen and (max-height:450px)*/
 @media only screen and (max-device-width: 480px)

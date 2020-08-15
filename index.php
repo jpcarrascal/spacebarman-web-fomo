@@ -14,7 +14,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width,user-scalable =no" />
-    <meta name="description" content="Spacebarman is an electronic rock band from Barcelona.">
+    <meta name="description" content="Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.">
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <title>Spacebarman</title>
@@ -48,53 +48,55 @@
 
 
 
-<div id="bg" class="bg">    
     
-    <div id="container">
-        <div>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+<div id="container">
+    <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
-        <div class="listen-menu" id="listen-button">
-        <div class="listen-dropdown" id="listen-dropdown">
-                <div class="play-service" id="close-dropdown">
-                    &times;
-                </div>
-                <div class="play-service">
-                    <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
-                </div>
-
-                <div class="play-service">
-                <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
-                </div>
+    <div class="listen-menu" id="listen-button">
+    <div class="listen-dropdown" id="listen-dropdown">
+            <div class="play-service" id="close-dropdown">
+                &times;
+            </div>
+            <div class="play-service">
+                <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
             </div>
 
-            Listen
-            
+            <div class="play-service">
+                <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
+            </div>
+
+            <div class="play-service">
+            <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
+            </div>
+
+            <div class="play-service">
+                <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
+            </div>
+
+            <div class="play-service">
+                <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
+            </div>
+
+            <div class="play-service">
+                <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
+            </div>
         </div>
 
+        Listen
+        
     </div>
 
 </div>
 
 
 
+<div class="footer">
+    <span class="spacebarman-description">
+    Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
+    </span>
+</div>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#1a6a89","text":"#ffffff","border":"#fde296"},"button":{"background":"#4ccae5","text":"#1a1a1a"}},"position":"bottom","padding":"small","content":{"href":"https://www.websitepolicies.com/policies/view/pv0EWq3z","message":"Spacebarman.com uses cookies to ensure you get the best experience on our website"}})});</script>
 
