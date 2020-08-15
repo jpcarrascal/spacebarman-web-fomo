@@ -119,18 +119,19 @@
 <div id="footer">
     <div class="footer-col">
         <h3>Follow us</h4>
-        <a href="https://www.instagram.com/spacebarman/" target="_blank">Istagram</a> <br/>
+        <a href="https://www.instagram.com/spacebarman/" target="_blank">Instagram</a> <br/>
         <a href="https://facebook.com/spacebarman" target="_blank">Facebook</a> <br/>
         <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank">Twitter</a> <br/>
     </div>
     <div class="footer-col">
         <h3>Other sites</h4>
+        <a href="https://lockdown-vr.glitch.me/" target="_blank">Lockdown VR experience </a><br />
         <a href="https://spacebarman.bandcamp.com" target="_blank">Bandcamp </a><br />
         <a href="https://www.soundcloud.com/spacebarman" target="_blank">SoundCloud </a><br />
     </div>
     <div class="footer-col">
         <h3>Contact</h4>
-        Booking: <a href="mailto:info@spacebarman">management@spacebarman.com</a> <br />
+        Booking: <a href="mailto:management@spacebarman">management@spacebarman.com</a> <br />
         Design and coding: <a href="http://www.jpcarrascal.com" tarhet="_blank">JP Carrascal</a> <br />
     </div>
 </div>
