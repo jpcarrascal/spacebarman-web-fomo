@@ -132,7 +132,7 @@
     </div>
     <div class="footer-col">
         <h3>Contact</h4>
-        Booking: <a href="mailto:management@spacebarman">management@spacebarman.com</a> <br />
+        Booking: <a href="mailto:info@spacebarman">info@spacebarman.com</a> <br />
         Design and coding: <a href="http://www.jpcarrascal.com" tarhet="_blank">JP Carrascal</a> <br />
     </div>
 </div>
