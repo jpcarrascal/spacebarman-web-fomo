@@ -30,79 +30,79 @@
 
 <body>
 
-<nav id="top-bar" class="menu-bar">
-    <a class="bar-item" href="bio/">Bio</a>
-    <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
-    <a class="bar-item" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
-    <div class="bar-item submenu">
-        Follow
-        <div class="submenu-dropdown">
-            <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
-            <a class="bar-item" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
-            <a class="bar-item" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
-            <a class="bar-item" href="https://music.youtube.com/spacebarmanvideo" target="_blank">Youtube</a>
-        </div>
-    </div>
-</nav>
-
-
-
-
-    
-<div id="container">
-    <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-    <div class="ctas">
-        <div class="listen-button cta-button" id="listen-button">
-        <div class="listen-dropdown" id="listen-dropdown">
-                <div class="play-service" id="close-dropdown">
-                    &times;
-                </div>
-                <div class="play-service">
-                    <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
-                </div>
-
-                <div class="play-service">
-                <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
-                </div>
-
-                <div class="play-service">
-                    <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
-                </div>
+    <nav id="top-bar" class="menu-bar">
+        <a class="bar-item" href="bio/">Bio</a>
+        <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
+        <a class="bar-item" href="https://spacebarman.us12.list-manage.com/subscribe?u=08fa2b83e7de09bfd19384dee&id=08f0d07b1e" target="_blank">Subscribe</a>
+        <div class="bar-item submenu">
+            Follow
+            <div class="submenu-dropdown">
+                <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
+                <a class="bar-item" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
+                <a class="bar-item" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
+                <a class="bar-item" href="https://music.youtube.com/spacebarmanvideo" target="_blank">Youtube</a>
             </div>
-
-            Listen
-            
         </div>
-        <div class="cta-button" id="watch-button">
-            <a href="https://lockdown-vr.glitch.me/" target="_brank">Watch VR video</a>
+    </nav>
+
+
+
+
+        
+    <div id="container">
+        <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <div class="ctas">
+            <div class="listen-button cta-button" id="listen-button">
+                <div class="listen-dropdown" id="listen-dropdown">
+                        <div class="play-service">
+                            <a href="https://open.spotify.com/artist/1o8zzq05yXKrsdQUrMzZdc?si=2PyPqY8tQgm56WQe26Musw" target="_blank"><img class="service-logo" src="images/logo-spotify.png" /></a>
+                        </div>
+
+                        <div class="play-service">
+                            <a href="https://music.youtube.com/channel/UCkTzGWzQiEjXv_Uv_bi7chg" target="_blank"><img class="service-logo" src="images/logo-youtubemusic.png" /></a>
+                        </div>
+
+                        <div class="play-service">
+                        <a href="https://itunes.apple.com/us/artist/spacebarman/id525428256" target="_blank"><img class="service-logo" src="images/logo-applemusic.png" /></a>
+                        </div>
+
+                        <div class="play-service">
+                            <a href="https://www.deezer.com/us/artist/4246882" target="_blank"><img class="service-logo" src="images/logo-deezer.png" /></a>
+                        </div>
+
+                        <div class="play-service">
+                            <a href="https://music.amazon.com/artists/B0081B12JI/spacebarman" target="_blank"><img class="service-logo" src="images/logo-amazon.png" /></a>
+                        </div>
+
+                        <div class="play-service">
+                            <a href="https://soundcloud.com/spacebarman" target="_blank"><img class="service-logo" src="images/logo-soundcloud.png" /></a>
+                        </div>
+                        <div class="play-service" id="close-dropdown">
+                            &times;
+                        </div>
+                </div>
+
+                Listen
+                
+            </div>
+            <div class="cta-button" id="watch-button">
+                <a href="https://lockdown-vr.glitch.me/" target="_brank">Watch VR video</a>
+            </div>
         </div>
     </div>
-</div>
 
 
 
-<div class="footer">
-    <span class="spacebarman-description">
-    Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
-    </span>
-</div>
+    <div class="footer">
+        <span class="spacebarman-description">
+        Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
+        </span>
+    </div>
 
-<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#1a6a89","text":"#ffffff","border":"#fde296"},"button":{"background":"#4ccae5","text":"#1a1a1a"}},"position":"bottom","padding":"small","content":{"href":"https://www.websitepolicies.com/policies/view/pv0EWq3z","message":"Spacebarman.com uses cookies to ensure you get the best experience on our website"}})});</script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#1a6a89","text":"#ffffff","border":"#fde296"},"button":{"background":"#4ccae5","text":"#1a1a1a"}},"position":"bottom","padding":"small","content":{"href":"https://www.websitepolicies.com/policies/view/pv0EWq3z","message":"Spacebarman.com uses cookies to ensure you get the best experience on our website"}})});</script>
 
 </body>
 </html>
