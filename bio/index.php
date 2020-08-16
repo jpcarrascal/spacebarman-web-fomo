@@ -66,6 +66,7 @@
             <div class="middle-text">
                 <h2>Bio</h2>
                 <p>
+                Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
                 I'm baby semiotics humblebrag gluten-free kitsch, edison bulb intelligentsia neutra umami ethical. Twee yuccie neutra woke locavore sustainable jianbing hella pitchfork tumblr palo santo succulents ennui meggings occupy. Enamel pin street art health goth air plant williamsburg man braid. Kale chips wayfarers put a bird on it iPhone, biodiesel migas godard meggings salvia bespoke. Lumbersexual church-key tilde stumptown narwhal put a bird on it sriracha cold-pressed sustainable affogato 90's fashion axe raw denim synth vaporware. Lo-fi tumeric fanny pack wolf letterpress, brunch wayfarers flannel literally celiac air plant whatever VHS bespoke. Pitchfork sriracha celiac YOLO, glossier flannel fam godard bespoke literally poke single-origin coffee freegan chicharrones.
                 </p>
                 <p>
