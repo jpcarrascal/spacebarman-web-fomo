@@ -17,7 +17,11 @@
     <meta name="description" content="Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.">
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
-    <title>Spacebarman</title>
+    <title>Spacebarman: an electronic rock band from Barcelona</title>
+    <meta property="og:title" content="Spacebarman" />
+    <meta property="og:description" content="An electronic rock band from Barcelona" />
+    <meta property="og:url" content="https://www.spacebarman.com/" />
+    <meta property="og:image" content="https://www.spacebarman.com/images/spacebarman-logo.png" />
 
 
     <link rel="stylesheet" href="https://use.typekit.net/oov2wcw.css">
@@ -98,7 +102,8 @@
 
     <div class="footer">
         <span class="spacebarman-description">
-        Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
+        <h1>Spacebarman</h1>
+        Spacebarman is an electronic rock band from Barcelona.<br/>Spacebarman es un grupo de rock de Barcelona.
         </span>
     </div>
 

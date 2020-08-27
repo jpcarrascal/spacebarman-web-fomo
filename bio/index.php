@@ -14,10 +14,10 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width,user-scalable =no" />
-    <meta name="description" content="Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.">
+    <meta name="description" content="Spacebarman: bio, presskit, photos, videos.">
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
-    <title>Spacebarman</title>
+    <title>Spacebarman: bio, presskit</title>
 
 
     <link rel="stylesheet" href="https://use.typekit.net/oov2wcw.css">
@@ -53,18 +53,18 @@
     </nav>
 
 
-    <a href="/"><img id="logo" src="../images/spacebarman-logo-blue.png" /></a>
+    <a href="/"><img id="logo" src="../images/spacebarman-logo-blue.png" alt="Spacebarman logo" /></a>
 
     
 
-    <img class="hero-img" src="../images/Spacebarman-band-hero.jpg" />
+    <img class="hero-img" src="../images/Spacebarman-band-hero.jpg" alt="Band header photo" />
 
     <div id="container">
 
         <div class="two-column">
             <div class="column">
                 <div class="middle-text">
-                    <h2>Bio</h2>
+                    <h1>Spacebarman - Bio</h1>
                     <p>
                     Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
                     I'm baby semiotics humblebrag gluten-free kitsch, edison bulb intelligentsia neutra umami ethical. Twee yuccie neutra woke locavore sustainable jianbing hella pitchfork tumblr palo santo succulents ennui meggings occupy. Enamel pin street art health goth air plant williamsburg man braid. Kale chips wayfarers put a bird on it iPhone, biodiesel migas godard meggings salvia bespoke. Lumbersexual church-key tilde stumptown narwhal put a bird on it sriracha cold-pressed sustainable affogato 90's fashion axe raw denim synth vaporware. Lo-fi tumeric fanny pack wolf letterpress, brunch wayfarers flannel literally celiac air plant whatever VHS bespoke. Pitchfork sriracha celiac YOLO, glossier flannel fam godard bespoke literally poke single-origin coffee freegan chicharrones.
@@ -103,11 +103,11 @@
                 <div class="middle-text">
                     <h2>Photos</h2>
                 </div>
-                <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" /></a>
-                <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" /></a>
-                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" /></a>
-                <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" /></a>
-                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-03-small.jpg" /></a>
+                <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-03-small.jpg" alt="Band photo" /></a>
             </div>
 
         </div>

@@ -257,7 +257,7 @@ h2.ep-title
 .spacebarman-description
 {
     display: block;
-    color: #474749;
+    color: rgba(255,255,255,0.05);//#474749;
     padding: 1em;
 }
 
