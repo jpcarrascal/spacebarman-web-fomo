@@ -9,7 +9,12 @@ Orange: #ff7223;
 
 a
 {
-    color: inherit;
+    color: #33a8c1;
+}
+
+a:hover
+{
+    color: #FFF;
 }
 
 p, h2
@@ -45,7 +50,7 @@ body
     width: 100%;
     height: 100%;
     overflow: hidden;
-    color: #DDD;
+    color: #CCC;
     background-color: transparent;
 }
 

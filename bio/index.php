@@ -64,22 +64,53 @@
         <div class="two-column">
             <div class="column">
                 <div class="middle-text">
-                    <h1>Spacebarman - Bio</h1>
+                    <h1>Bio</h1>
                     <p>
-                    Spacebarman is an electronic rock band from Barcelona. Spacebarman es un grupo de rock de Barcelona.
-                    I'm baby semiotics humblebrag gluten-free kitsch, edison bulb intelligentsia neutra umami ethical. Twee yuccie neutra woke locavore sustainable jianbing hella pitchfork tumblr palo santo succulents ennui meggings occupy. Enamel pin street art health goth air plant williamsburg man braid. Kale chips wayfarers put a bird on it iPhone, biodiesel migas godard meggings salvia bespoke. Lumbersexual church-key tilde stumptown narwhal put a bird on it sriracha cold-pressed sustainable affogato 90's fashion axe raw denim synth vaporware. Lo-fi tumeric fanny pack wolf letterpress, brunch wayfarers flannel literally celiac air plant whatever VHS bespoke. Pitchfork sriracha celiac YOLO, glossier flannel fam godard bespoke literally poke single-origin coffee freegan chicharrones.
+                        Spacebarman, the name of the Barcelona-based band is, much like the music it creates, a riddle and a treat.
+                        Is it Space-bar-man or Space-barman? listeners often ask JP, the leader of the once one-man-band.
+                    </p> 
+                    <p>
+                        <i>"It’s most probably Spacebar-man"</i>, JP answers with a wry smile, <i>"as in the spacebar on your computer keyboard. Because that’s the essence of what we do"</i>, he jokes, modestly.
+                    </p> 
+                    <p>
+                        Spacebarman, composed of JP, Pablo and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital.
+                        Its sound is much like you’d imagine the musical manifestations of an intelligent, ambiguous, cybernetic organism.
+                        An organism that at the same time antagonizes and embraces its instincts--the hedonic search for pleasure, the pressure to assume a role in an strictly organized organic mega-system.
+                        The result of this inner battle? Spacebarman’s Music.
+                    </p> 
+                    <p>
+                        One could say that Spacebarman’s sound inherited the dark-electro-pop, post-punk sensibility of bands such as Depeche Mode and 17-seconds-era The Cure,
+                        the industrial rage and sonic exploration of Crystal Castles and Nine Inch Nails,
+                        and the shoegaze-y guitar textures found in recordings from Ride, Soda Stereo and The Jesus and Mary Chain.
+                        It feels equally dancefloor and moshpit friendly.
                     </p>
                     <p>
-                    Ramps celiac af gochujang lyft, cardigan selvage meditation scenester PBR&B unicorn whatever hot chicken twee. Gochujang pickled pour-over you probably haven't heard of them. Vexillologist swag slow-carb, la croix disrupt microdosing 8-bit skateboard quinoa. Marfa tattooed af quinoa letterpress butcher copper mug vegan single-origin coffee roof party health goth 8-bit. Cloud bread photo booth before they sold out put a bird on it, hexagon paleo gluten-free cliche dreamcatcher flannel man bun plaid ennui. Cold-pressed synth farm-to-table, before they sold out hashtag bitters poutine snackwave lo-fi shaman sartorial direct trade keytar.
+                        FOMO—Fear Of Missing Out—, the band’s latest release, is an ode to what we all would want to do, to what we all would want to be, but slips through the cracks of time.
+                    </p>
+
+                    <h1>A little bit of history</h1>
+                    <p>
+                        Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with La Fábrica (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.
+                        La Fábrica had shared the stage with the likes of Björk, Superlitio, Koyi-K-Utho, Carajo, and Volován, and had played in venues all over the country, including South America’s largest free rock festival, <a href="https://en.wikipedia.org/wiki/Rock_al_Parque" target="_blank">Rock al Parque</a>.
                     </p>
                     <p>
-                    Scenester keffiyeh bitters lomo unicorn, fingerstache venmo kinfolk. Vape farm-to-table kombucha, fanny pack chicharrones cardigan tbh la croix everyday carry. Art party pabst hoodie wolf DIY trust fund mixtape live-edge yr cliche flannel. Palo santo adaptogen sustainable meh polaroid retro art party knausgaard ramps everyday carry occupy selfies snackwave.
+                        Spacebarman launched a series of EPs and singles starting in 2011 (<a href="https://spacebarman.bandcamp.com/album/badboy-ep" target="_blank">Bad Boy</a>, <a href="https://spacebarman.bandcamp.com/album/a-veces-me-pierdo-ep" target="_blank">A veces me pierdo</a>, <a href="https://spacebarman.bandcamp.com/album/uno-m-s-metro-single" target="_blank">Uno más</a>) that culminated in the release of the LP <a href="https://spacebarman.bandcamp.com/album/si-alg-n-d-a-todo-falla" target="_blank">Si algún día todo falla</a> (“If one day all else fails”), in December 2012.
+                        The album brings to the table a new sound, if compared to La Fábrica, with heavier use of fuzzy electric guitars, but keeping hypno-electronic nerdiness that characterized the pioneering Colombian band.
                     </p>
                     <p>
-                    Dreamcatcher fixie gentrify shaman. Irony fanny pack yuccie kale chips fingerstache put a bird on it. Small batch copper mug seitan palo santo roof party, umami messenger bag. Deep v helvetica chia swag freegan, williamsburg hexagon kinfolk etsy. Paleo marfa photo booth polaroid, craft beer church-key sustainable tumblr chambray. Dreamcatcher pitchfork celiac yuccie, readymade plaid flannel chia.
+
+                        In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
+                        The EP was influenced, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
+                        Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
+                        This frame of mind is best summarized in the EP’s second song, <i>One with the machine</i>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
-                    <br />
-                    Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                    <p>
+
+                        In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio. Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer. Pablo also is one of La Fábrica’s co-founders, and has played bassist, keyboardist and producer roles in a number of bands including Fuera de Quicio, Sicobot, and Polaroid.
+                        </p>
+                    <p>
+                        Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                    </p>
                 </div>
                 <div class="middle-text">
                 <br />
