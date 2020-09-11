@@ -64,7 +64,7 @@
         <div class="two-column">
             <div class="column">
                 <div class="middle-text">
-                    <h1>Bio</h1>
+                    <h2>Bio</h2>
                     <p>
                         Spacebarman, the name of the Barcelona-based band is, much like the music it creates, a riddle and a treat.
                         Is it Space-bar-man or Space-barman? listeners often ask JP, the leader of the once one-man-band.
@@ -84,11 +84,12 @@
                         and the shoegaze-y guitar textures found in recordings from Ride, Soda Stereo and The Jesus and Mary Chain.
                         It feels equally dancefloor and moshpit friendly.
                     </p>
+                    <!---
                     <p>
-                        FOMO—Fear Of Missing Out—, the band’s latest release, is an ode to what we all would want to do, to what we all would want to be, but slips through the cracks of time.
+                        <a href="#" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to what we all would want to do, to what we all would want to be, but slips through the cracks of time.
                     </p>
-
-                    <h1>A little bit of history</h1>
+                    --->
+                    <h2>A little bit of history</h2>
                     <p>
                         Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with <a href="https://lafabrica.bandcamp.com/" target="_blank">La Fábrica</a> (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.
                         La Fábrica had shared the stage with the likes of Björk, Superlitio, Koyi-K-Utho, Carajo, and Volován, and had played in venues all over the country, including South America’s largest free rock festival, <a href="https://en.wikipedia.org/wiki/Rock_al_Parque" target="_blank">Rock al Parque</a>.
@@ -98,18 +99,13 @@
                         The album brings to the table a new sound, if compared to La Fábrica, with heavier use of fuzzy electric guitars, but keeping hypno-electronic foundation that characterized the pioneering Colombian band.
                     </p>
                     <p>
-
                         In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
                         The EP was influenced, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
                         Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
                         This duality is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
                     <p>
-
                         In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio. Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer. Pablo also is one of La Fábrica’s co-founders, and has played bassist, keyboardist and producer roles in a number of bands including Fuera de Quicio, Sicobot, and Polaroid.
-                        </p>
-                    <p>
-                        Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
                     </p>
                 </div>
                 <div class="middle-text">
@@ -133,6 +129,9 @@
             <div class="column">
                 <div class="middle-text">
                     <h2>Photos</h2>
+                    <p>
+                        Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                    </p>
                 </div>
                 <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
