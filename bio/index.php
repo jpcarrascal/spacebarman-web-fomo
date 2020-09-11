@@ -34,9 +34,9 @@
         <div class="submenu bar-item">
             Download
             <div class="submenu-dropdown">
-                <a class="bar-item" href="../docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
-                <a class="bar-item" href="../docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
-                <a class="bar-item" href="../docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
+                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
+                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
+                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
             </div>
         </div>
         <a class="bar-item" href="https://www.youtube.com/user/spacebarmanvideo" target="_blank">Video</a>
@@ -73,7 +73,7 @@
                         <i>"It’s most probably Spacebar-man"</i>, JP answers with a wry smile, <i>"as in the spacebar on your computer keyboard. Because that’s the essence of what we do"</i>, he jokes, modestly.
                     </p> 
                     <p>
-                        Spacebarman, composed of JP, Pablo and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital.
+                        Spacebarman, composed of JP, Pablo and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital elements.
                         Its sound is much like you’d imagine the musical manifestations of an intelligent, ambiguous, cybernetic organism.
                         An organism that at the same time antagonizes and embraces its instincts--the hedonic search for pleasure, the pressure to assume a role in an strictly organized organic mega-system.
                         The result of this inner battle? Spacebarman’s Music.
@@ -95,14 +95,14 @@
                     </p>
                     <p>
                         Spacebarman launched a series of EPs and singles starting in 2011 (<a href="https://spacebarman.bandcamp.com/album/badboy-ep" target="_blank">Bad Boy</a>, <a href="https://spacebarman.bandcamp.com/album/a-veces-me-pierdo-ep" target="_blank">A veces me pierdo</a>, <a href="https://spacebarman.bandcamp.com/album/uno-m-s-metro-single" target="_blank">Uno más</a>) that culminated in the release of the LP <a href="https://spacebarman.bandcamp.com/album/si-alg-n-d-a-todo-falla" target="_blank">Si algún día todo falla</a> (“If one day all else fails”), in December 2012.
-                        The album brings to the table a new sound, if compared to La Fábrica, with heavier use of fuzzy electric guitars, but keeping hypno-electronic nerdiness that characterized the pioneering Colombian band.
+                        The album brings to the table a new sound, if compared to La Fábrica, with heavier use of fuzzy electric guitars, but keeping hypno-electronic foundation that characterized the pioneering Colombian band.
                     </p>
                     <p>
 
                         In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
                         The EP was influenced, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
                         Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
-                        This frame of mind is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
+                        This duality is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
                     <p>
 
