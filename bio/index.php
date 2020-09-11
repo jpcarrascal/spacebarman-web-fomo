@@ -90,7 +90,7 @@
 
                     <h1>A little bit of history</h1>
                     <p>
-                        Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with La Fábrica (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.
+                        Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with <a href="https://lafabrica.bandcamp.com/" target="_blank">La Fábrica</a> (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.
                         La Fábrica had shared the stage with the likes of Björk, Superlitio, Koyi-K-Utho, Carajo, and Volován, and had played in venues all over the country, including South America’s largest free rock festival, <a href="https://en.wikipedia.org/wiki/Rock_al_Parque" target="_blank">Rock al Parque</a>.
                     </p>
                     <p>
@@ -102,7 +102,7 @@
                         In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
                         The EP was influenced, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
                         Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
-                        This frame of mind is best summarized in the EP’s second song, <i>One with the machine</i>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
+                        This frame of mind is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
                     <p>
 
