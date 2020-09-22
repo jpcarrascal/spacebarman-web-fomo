@@ -125,7 +125,7 @@ body
 }
 
 
-.bar-item:hover, .bar-subitem:hover
+.bar-item:hover, .bar-subitem:hover, .bar-item:active, .bar-subitem:active
 {
     color: #002729;
     background-color: #ff7223;
@@ -188,7 +188,7 @@ body
 }
 
 .listen-dropdown {
-    margin-top: -500px;
+    margin-top: -50%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -201,7 +201,7 @@ body
 
 .service-logo
 {
-    width: 300px;
+    width: 250px;
 }
 
 .play-service
@@ -219,7 +219,7 @@ body
     font-size: 1.5em;
 }
 
-.play-service:hover
+.play-service:hover,
 {
     background-color: #ff7223;
 }
