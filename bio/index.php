@@ -86,7 +86,7 @@
                     </p>
                     <!---
                     <p>
-                        <a href="#" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to what we all would want to do, to what we all would want to be, but slips through the cracks of time.
+                        <a href="#" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to all we’d want to do, to all we’d want to be, but slips through the cracks of time.
                     </p>
                     --->
                     <h2>A little bit of history</h2>
@@ -100,7 +100,7 @@
                     </p>
                     <p>
                         In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
-                        The EP was influenced, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
+                        The EP was stirred, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
                         Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
                         This duality is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
