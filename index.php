@@ -68,37 +68,37 @@
             <div class="listen-button cta-button" id="listen-button">
                 <div class="listen-dropdown" id="listen-dropdown">
 
-                        <a href="https://open.spotify.com/album/510008FidKc33DxZUpp7Qq?si=JxDdR_BXQBipzTMOnFZesw" target="_blank">
+                        <a class="play-service-link" href="https://open.spotify.com/album/510008FidKc33DxZUpp7Qq?si=JxDdR_BXQBipzTMOnFZesw" target="_blank">
                             <div class="play-service" service-link="service-link-spotify">
                                 <img class="service-logo" src="images/logo-spotify.png" service-link="service-link-spotify" />
                             </div>
                         </a>
 
-                        <a href="https://music.apple.com/us/album/fomo-ep/1532885843" target="_blank">
+                        <a class="play-service-link" href="https://music.apple.com/us/album/fomo-ep/1532885843" target="_blank">
                             <div class="play-service" service-link="apple">
                                 <img class="service-logo" src="images/logo-applemusic.png" service-link="apple" />
                             </div>
                         </a>
 
-                        <a href="https://music.youtube.com/playlist?list=OLAK5uy_nl0bzHTrVJopcPY6nCKzZCGYCLNwpQKfM" target="_blank">
+                        <a class="play-service-link" href="https://music.youtube.com/playlist?list=OLAK5uy_nl0bzHTrVJopcPY6nCKzZCGYCLNwpQKfM" target="_blank">
                             <div class="play-service" service-link="youtube">
                                 <img class="service-logo" src="images/logo-youtubemusic.png" service-link="youtube" />
                             </div>
                         </a>
 
-                        <a href="https://www.deezer.com/us/album/174968362" target="_blank">
+                        <a class="play-service-link" href="https://www.deezer.com/us/album/174968362" target="_blank">
                             <div class="play-service" service-link="deezer">
                                 <img class="service-logo" src="images/logo-deezer.png" service-link="deezer" />
                             </div>
                         </a>
 
-                        <a href="https://music.amazon.com/albums/B08JQJL44F" target="_blank">
+                        <a class="play-service-link" href="https://music.amazon.com/albums/B08JQJL44F" target="_blank">
                             <div class="play-service" service-link="amazon">
                                 <img class="service-logo" src="images/logo-amazon.png" service-link="amazon" />
                             </div>
                         </a>
 
-                        <a href="https://soundcloud.com/spacebarman/sets/fomo" target="_blank">
+                        <a class="play-service-link" href="https://soundcloud.com/spacebarman/sets/fomo" target="_blank">
                             <div class="play-service" service-link="soundcloud">
                                 <img class="service-logo" src="images/logo-soundcloud.png" service-link="soundcloud" />
                             </div>

@@ -1,7 +1,6 @@
 window.onload = function() {
     let listenButton = document.querySelector('#listen-button');
     let listenDropdown = document.querySelector('#listen-dropdown');
-    let musicServiceLink = document.querySelector('.play-service');
 
     listenButton.onclick = function(event){
         event.stopPropagation();
@@ -9,7 +8,11 @@ window.onload = function() {
         if(clickedItem.hasAttribute("service-link"))
         {
             const clickedService = clickedItem.getAttribute("service-link");
-            ga('send', 'event', 'music-service-link-click', clickedService, 'FOMO-launch', 0);
+            gtag('event', clickedService, {
+                'event_category': 'music-service-link-click',
+                'event_label': 'FOMO-launch',
+                'value': 0
+              });
             console.log(clickedService + " clicked.")
         }
         if(listenDropdown.style.display == "block")
