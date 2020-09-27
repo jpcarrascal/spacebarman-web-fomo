@@ -86,7 +86,7 @@
                     </p>
 
                     <p>
-                        <a href="#" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to all we’d want to do, to all we’d want to be, but slips through the cracks of time.
+                        <a href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to all we’d want to do, to all we’d want to be, but slips through the cracks of time.
                     </p>
 
                     <h2>A little bit of history</h2>
