@@ -79,7 +79,7 @@
                         The result of this inner battle? Spacebarman’s Music.
                     </p> 
                     <p>
-                        One could say that Spacebarman’s sound inherited the dark-electro-pop, post-punk sensibility of bands such as Depeche Mode and 17-seconds-era The Cure,
+                        Spacebarman’s sound inherited the dark-electro-pop, post-punk sensibility of bands such as Depeche Mode and 17-seconds-era The Cure,
                         the industrial rage and sonic exploration of Crystal Castles and Nine Inch Nails,
                         and the shoegaze-y guitar textures found in recordings from Ride, Soda Stereo and The Jesus and Mary Chain.
                         It feels equally dancefloor and moshpit friendly.
