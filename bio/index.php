@@ -84,11 +84,11 @@
                         and the shoegaze-y guitar textures found in recordings from Ride, Soda Stereo and The Jesus and Mary Chain.
                         It feels equally dancefloor and moshpit friendly.
                     </p>
-                    <!---
+
                     <p>
                         <a href="#" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to all we’d want to do, to all we’d want to be, but slips through the cracks of time.
                     </p>
-                    --->
+
                     <h2>A little bit of history</h2>
                     <p>
                         Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with <a href="https://lafabrica.bandcamp.com/" target="_blank">La Fábrica</a> (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.

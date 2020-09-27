@@ -219,7 +219,7 @@ body
     font-size: 1.5em;
 }
 
-.play-service:hover,
+.play-service:hover
 {
     background-color: #ff7223;
 }
