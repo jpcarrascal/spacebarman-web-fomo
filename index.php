@@ -69,8 +69,8 @@
                 <div class="listen-dropdown" id="listen-dropdown">
 
                         <a class="play-service-link" href="https://open.spotify.com/album/510008FidKc33DxZUpp7Qq?si=JxDdR_BXQBipzTMOnFZesw" target="_blank">
-                            <div class="play-service" service-link="service-link-spotify">
-                                <img class="service-logo" src="images/logo-spotify.png" service-link="service-link-spotify" />
+                            <div class="play-service" service-link="spotify">
+                                <img class="service-logo" src="images/logo-spotify.png" service-link="spotify" />
                             </div>
                         </a>
 
