@@ -47,7 +47,7 @@
                 <a class="bar-item" href="https://www.instagram.com/spacebarman/" target="_blank"><div class="bar-subitem">Instagram</div></a>
                 <a class="bar-item" href="https://facebook.com/spacebarman" target="_blank"><div class="bar-subitem">Facebook</div></a>
                 <a class="bar-item" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fspacebarman.com%2F&region=follow_link&screen_name=spacebarman&tw_p=followbutton&variant=2.0" target="_blank"><div class="bar-subitem">Twitter</div></a>
-                <a class="bar-item" href="https://music.youtube.com/spacebarmanvideo" target="_blank">Youtube</a>
+                <a class="bar-item" href="https://youtube.com/spacebarmanvideo" target="_blank">Youtube</a>
             </div>
         </div>
     </nav>
