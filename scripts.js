@@ -1,6 +1,7 @@
 window.onload = function() {
     let listenButton = document.querySelector('#listen-button');
     let listenDropdown = document.querySelector('#listen-dropdown');
+    let tmpFomo = document.querySelector('#tmp-fomo');
 
     listenButton.onclick = function(event){
         event.stopPropagation();
@@ -15,18 +16,23 @@ window.onload = function() {
               });
             console.log(clickedService + " clicked.")
         }
-        if(listenDropdown.style.display == "block")
+        if(listenDropdown.style.display == "block") {
             listenDropdown.style.display = "none";
+            tmpFomo.style.display = "none";
+        }
         else
             listenDropdown.style.display = "block";
     }
 
     window.onkeyup = function(event){
-        if(event.key == "Escape")
+        if(event.key == "Escape") {
             listenDropdown.style.display = "none";
+            tmpFomo.style.display = "none";
+        }
     }
     document.querySelector("body").onclick = function(event){
         listenDropdown.style.display = "none";
+        tmpFomo.style.display = "none";
     }
 
 

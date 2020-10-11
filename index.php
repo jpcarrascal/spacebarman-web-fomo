@@ -67,7 +67,9 @@
         <div class="ctas">
             <div class="listen-button cta-button" id="listen-button">
                 <div class="listen-dropdown" id="listen-dropdown">
-
+                        <div id="tmp-fomo">
+                        New EP <span id="fomo-tmp-title">FOMO</span> now available.<br />Listen on:
+                        </div>
                         <a class="play-service-link" href="https://open.spotify.com/album/510008FidKc33DxZUpp7Qq?si=JxDdR_BXQBipzTMOnFZesw" target="_blank">
                             <div class="play-service" service-link="spotify">
                                 <img class="service-logo" src="images/logo-spotify.png" service-link="spotify" />

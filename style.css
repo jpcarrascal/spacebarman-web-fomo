@@ -189,16 +189,29 @@ body
 
 .listen-dropdown {
     position: absolute;
-    top: 40px;
+    top: 30px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: none;
+    display: block;
     position: absolute;
     padding: 0;
     z-index: 1;
 }
 
+#tmp-fomo
+{
+    padding: 5px;
+    color: #DDD;
+    background-color: #1388a1;
+    font-size: 0.8em;
+}
+
+#fomo-tmp-title
+{
+    color: #ff7223;
+    font-weight: bold;
+}
 
 .service-logo
 {
