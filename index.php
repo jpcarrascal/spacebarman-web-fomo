@@ -58,7 +58,7 @@
         
     <div id="container">
         <div>
-                <img width="560" src="images/FOMO-cover.jpg" />
+                <img width="560" src="images/FOMO-cover.png" />
                 <!--
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 -->
@@ -103,6 +103,12 @@
                         <a class="play-service-link" href="https://soundcloud.com/spacebarman/sets/fomo" target="_blank">
                             <div class="play-service" service-link="soundcloud">
                                 <img class="service-logo" src="images/logo-soundcloud.png" service-link="soundcloud" />
+                            </div>
+                        </a>
+
+                        <a class="play-service-link" href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">
+                            <div class="play-service" service-link="bandcamp">
+                                <img class="service-logo" src="images/logo-bandcamp.png" service-link="bandcamp" />
                             </div>
                         </a>
 
