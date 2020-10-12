@@ -189,11 +189,11 @@ body
 
 .listen-dropdown {
     position: absolute;
-    top: 30px;
+    top: 50px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: block;
+    display: none;
     position: absolute;
     padding: 0;
     z-index: 1;
@@ -201,6 +201,7 @@ body
 
 #tmp-fomo
 {
+    display: none;
     padding: 5px;
     color: #DDD;
     background-color: #1388a1;

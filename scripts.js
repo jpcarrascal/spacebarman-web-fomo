@@ -1,7 +1,10 @@
 window.onload = function() {
-    let listenButton = document.querySelector('#listen-button');
-    let listenDropdown = document.querySelector('#listen-dropdown');
-    let tmpFomo = document.querySelector('#tmp-fomo');
+    var listenButton = document.querySelector('#listen-button');
+    var listenDropdown = document.querySelector('#listen-dropdown');
+    var tmpFomo = document.querySelector('#tmp-fomo');
+
+    //if(findGetParameter("from").localeCompare("mailchimpfomo") == 0)
+    //    listenDropdown.style.display = "block";
 
     listenButton.onclick = function(event){
         event.stopPropagation();
@@ -35,5 +38,17 @@ window.onload = function() {
         tmpFomo.style.display = "none";
     }
 
+    /*
+    function findGetParameter(parameterName) {
+        var result = null,
+            tmp = [];
+        var items = location.search.substr(1).split("&");
+        for (var index = 0; index < items.length; index++) {
+            tmp = items[index].split("=");
+            if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+        }
+        return result;
+    }
+    */
 
 };
