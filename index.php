@@ -76,6 +76,12 @@
                             </div>
                         </a>
 
+                        <a class="play-service-link" href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">
+                            <div class="play-service" service-link="bandcamp">
+                                <img class="service-logo" src="images/logo-bandcamp.png" service-link="bandcamp" />
+                            </div>
+                        </a>
+
                         <a class="play-service-link" href="https://music.apple.com/us/album/fomo-ep/1532885843" target="_blank">
                             <div class="play-service" service-link="apple">
                                 <img class="service-logo" src="images/logo-applemusic.png" service-link="apple" />
@@ -103,12 +109,6 @@
                         <a class="play-service-link" href="https://soundcloud.com/spacebarman/sets/fomo" target="_blank">
                             <div class="play-service" service-link="soundcloud">
                                 <img class="service-logo" src="images/logo-soundcloud.png" service-link="soundcloud" />
-                            </div>
-                        </a>
-
-                        <a class="play-service-link" href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">
-                            <div class="play-service" service-link="bandcamp">
-                                <img class="service-logo" src="images/logo-bandcamp.png" service-link="bandcamp" />
                             </div>
                         </a>
 
