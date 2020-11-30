@@ -34,7 +34,7 @@
         <div class="submenu bar-item">
             More
             <div class="submenu-dropdown">
-                <a class="bar-item" href="/bio-es" target="_blank"><div class="bar-subitem">Bio (ES)</div></a>
+                <a class="bar-item" href="/bio" target="_blank"><div class="bar-subitem">Bio (EN)</div></a>
                 <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
                 <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
             </div>
@@ -66,46 +66,50 @@
                 <div class="middle-text">
                     <h2>Bio</h2>
                     <p>
-                        Spacebarman, the name of the Barcelona-based band is, much like the music it creates, a riddle and a treat.
-                        Is it Space-bar-man or Space-barman? listeners often ask JP, the leader of the once one-man-band.
+                        El nombre de la banda barcelonesa Spacebarman es, como su música, un acertijo.
+                        ¿Es Space-bar-man o Space-barman? Le preguntan los oyentes con frecuencia a JP, el líder de lo que solía ser un proyecto en solitario.
                     </p> 
                     <p>
-                        <i>"It’s most probably Spacebar-man"</i>, JP answers with a wry smile, <i>"as in the spacebar on your computer keyboard. Because that’s the essence of what we do"</i>, he jokes, modestly.
+                        Él responde con una sonrisa
+                        <i>"lo más probable es Spacebar-man, como la barra espaciadora de un teclado. Por que esa es la esencia de lo que hacemos"</i>.
                     </p> 
                     <p>
-                        Spacebarman, composed of JP, Pablo and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital elements.
-                        Its sound is much like you’d imagine the musical manifestations of an intelligent, ambiguous, cybernetic organism.
-                        An organism that at the same time antagonizes and embraces its instincts--the hedonic search for pleasure, the pressure to assume a role in an strictly organized organic mega-system.
-                        The result of this inner battle? Spacebarman’s Music.
+                        Spacebarman, compuesto de JP, Pablo y Mauricio, es una banda de rock electrónico cuya música es una mezcla balanceada de elementos orgánicos y digitales.
+                        Su sonido es lo que podría imaginarse como la manifestación musical de un organismo cibernético inteligente y ambiguo.
+                        Un organismo que al mismo tiempo antagoniza y adopta sus instintos—la búsqueda hedónica del placer, la presión de asumir un papel en un mega-sistema orgánico y estrictamente organizado.
+                        ¿El resultado de esta batalla interna? La música de Spacebarman.
                     </p> 
                     <p>
-                        Spacebarman’s sound inherited the dark-electro-pop, post-punk sensibility of bands such as Depeche Mode and 17-seconds-era The Cure,
-                        the industrial rage and sonic exploration of Crystal Castles and Nine Inch Nails,
-                        and the shoegaze-y guitar textures found in recordings from Ride, Soda Stereo and The Jesus and Mary Chain.
-                        It feels equally dancefloor and moshpit friendly.
+                        El sonido de Spacebarman ha heredado la sensibilidad del electro-pop oscuro y post-punk de bandas como Depeche Mode y el The Cure de la época del 17 Seconds,
+                        la ira industrial y la exploración sonora de Crystal Castles y Nine Inch Nails,
+                        y las texturas de guitarra shoegaze que se encuentran en grabaciones de Ride, Soda Stereo y The Jesus and Mary Chain.
+                        Es igualmente amigable con la pista de baile y el pogo.
                     </p>
 
                     <p>
-                        <a href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">FOMO</a>—Fear Of Missing Out—, the band’s latest release, is an ode to all we’d want to do, to all we’d want to be, but slips through the cracks of time.
+                        El más reciente trabajo de la banda, titulado <a href="https://spacebarman.bandcamp.com/album/fomo" target="_blank">FOMO</a>—del inglés <i>fear of missing out</i>, "temor a dejar pasar" o "temor a perderse algo"—, es una oda a todo lo que quisiéramos hacer, todo lo que quisiéramos ser, pero que se escabulle a través de las rendijas del tiempo.
                     </p>
 
-                    <h2>A little bit of history</h2>
+                    <h2>Un poco de historia</h2>
                     <p>
-                        Spacebarman started as a one-man-band in 2010, when JP, who had co-founded and performed in his native Colombia with <a href="https://lafabrica.bandcamp.com/" target="_blank">La Fábrica</a> (the band that brought for the first time big-bellied, cream-coloured computers and keyboards along with rock instruments to Colombian stages) moved to Barcelona.
-                        La Fábrica had shared the stage with the likes of Björk, Superlitio, Koyi-K-Utho, Carajo, and Volován, and had played in venues all over the country, including South America’s largest free rock festival, <a href="https://en.wikipedia.org/wiki/Rock_al_Parque" target="_blank">Rock al Parque</a>.
+                        Spacebarman empezó como un “one-man band” en 2010, cuando JP, quien había co-fundado en Colombia  <a href="https://lafabrica.bandcamp.com/" target="_blank">La Fábrica</a> (una de las primeras bandas, si no la primera, en subir a tarima tubos de rayos catódicos, computadores e instrumentos de rock), se mudó a Barcelona.
+                        La Fábrica había compartido escena con artistas como Björk, Superlitio, Koyi-K-Utho, Carajo, y Volován, y había tocado en escenarios de todo el país, incluyendo <a href="https://en.wikipedia.org/wiki/Rock_al_Parque" target="_blank">Rock al Parque</a>, el festival gratuito más grande de Latinoamérica.
                     </p>
                     <p>
-                        Spacebarman launched a series of EPs and singles starting in 2011 (<a href="https://spacebarman.bandcamp.com/album/badboy-ep" target="_blank">Bad Boy</a>, <a href="https://spacebarman.bandcamp.com/album/a-veces-me-pierdo-ep" target="_blank">A veces me pierdo</a>, <a href="https://spacebarman.bandcamp.com/album/uno-m-s-metro-single" target="_blank">Uno más</a>) that culminated in the release of the LP <a href="https://spacebarman.bandcamp.com/album/si-alg-n-d-a-todo-falla" target="_blank">Si algún día todo falla</a> (“If one day all else fails”), in December 2012.
-                        The album brings to the table a new sound, if compared to La Fábrica, with heavier use of fuzzy electric guitars, but keeping hypno-electronic foundation that characterized the pioneering Colombian band.
+                        Spacebarman empezó a publicar una serie de EPs y singles en 2011 (<a href="https://spacebarman.bandcamp.com/album/badboy-ep" target="_blank">Bad Boy</a>, <a href="https://spacebarman.bandcamp.com/album/a-veces-me-pierdo-ep" target="_blank">A veces me pierdo</a>, <a href="https://spacebarman.bandcamp.com/album/uno-m-s-metro-single" target="_blank">Uno más</a>)
+                        que culminaro en la publicación del LP <a href="https://spacebarman.bandcamp.com/album/si-alg-n-d-a-todo-falla" target="_blank">Si algún día todo falla</a> in December 2012.
+                        El álbum propone un nuevo sonido (si se compara con La Fábrica), usando guitarras con más distorsión y <i>fuzz</i>, pero conservando la base hypno-electrónica que caracterizó a la banda pionera en Colombia.
                     </p>
                     <p>
-                        In early 2018 the, still at this time, one-man-band launched <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
-                        The EP was stirred, but not shaken, by the sound and the experience of living and performing in the cradle of grunge, Seattle.
-                        Persona is the first exploration into the realm of the digital vs analog duality, not regarding the neverending which-media-sounds-better dilemma, but as an existential question framed by the emergence of social media addiction and artificial intelligence.
-                        This duality is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
+                        A principios del 2018, la aún <i>one-man-band</i> lanzó <a href="https://spacebarman.bandcamp.com/album/persona" target="_blank">Persona</a>.
+                        Este EP fue agitado, más no revuelto, por el sonido y la experiencia de vivir en Seattle, la cuna del grunge.
+                        Persona es la primera exporación en la dualidad de lo digital vs lo analógico, no en cuanto al eterno dilema de qué-suena-mejor, pero como una pregunta existencial enmarcada por la emergencia de la adicción a los redes sociales y la inteligencia artificial.
+                        Esta dualidad esté mejor resumida en la segunda canción del EP, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a> ("Uno con la máquina"): <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i> ("soy uno con la máquina, es todo o que necesito. No necesito medicamentos, solo estar en paz").
                     </p>
                     <p>
-                        In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio. Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer. Pablo also is one of La Fábrica’s co-founders, and has played bassist, keyboardist and producer roles in a number of bands including Fuera de Quicio, Sicobot, and Polaroid.
+                        En el verano de 2018 JP regresa a Barcelona y se encuentra con Mauricio y Pablo, colaborador de muchos años y proyectos, cristalizando a Spacebarman como un <i>power trio</i>.
+                        Mauricio es un multiinstrumentalista y productos con una larga carrera en su haber, habiendo tocado guitarra y bajo en conocidas bandas colombianas e internacionales como  Santa Sangre, Julio Nava, Ángel Negro, y Amos y los Santos. Con Spacebarman, se reinventa como baterista.
+                        Pablo fue también co-fundador de La Fábrica, y ha estado detrás del bajo, teclados y producción en varias bandas incluyendo Fuera de Quicio, Sicobot, y Polaroid.
                     </p>
                 </div>
                 <div class="middle-text">
