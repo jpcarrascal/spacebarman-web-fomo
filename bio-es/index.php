@@ -35,7 +35,8 @@
             More
             <div class="submenu-dropdown">
                 <a class="bar-item" href="/bio" target="_blank"><div class="bar-subitem">Bio (EN)</div></a>
-                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
+                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit_ES.pdf" target="_blank"><div class="bar-subitem">Presskit (ES)</div></a>
+                <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-presskit_EN.pdf" target="_blank"><div class="bar-subitem">Presskit (EN)</div></a>
                 <a class="bar-item" href="http://spacebarman.com/docs/Spacebarman-rider.pdf" target="_blank"><div class="bar-subitem">Rider</div></a>
             </div>
         </div>
