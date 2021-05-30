@@ -74,7 +74,7 @@
                         <i>"It’s most probably Spacebar-man"</i>, JP answers with a wry smile, <i>"as in the spacebar on your computer keyboard. Because that’s the essence of what we do"</i>, he jokes, modestly.
                     </p> 
                     <p>
-                        Spacebarman, composed of JP, Pablo and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital elements.
+                        Spacebarman, composed of JP, Daniel and Mauricio, is an electronic rock band whose music is a balanced mix of organic and digital elements.
                         Its sound is much like you’d imagine the musical manifestations of an intelligent, ambiguous, cybernetic organism.
                         An organism that at the same time antagonizes and embraces its instincts--the hedonic search for pleasure, the pressure to assume a role in an strictly organized organic mega-system.
                         The result of this inner battle? Spacebarman’s Music.
@@ -106,7 +106,10 @@
                         This duality is best summarized in the EP’s second song, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a>: <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i>.
                     </p>
                     <p>
-                        In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio. Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer. Pablo also is one of La Fábrica’s co-founders, and has played bassist, keyboardist and producer roles in a number of bands including Fuera de Quicio, Sicobot, and Polaroid.
+                        In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio.
+                        In 2021 Pablo leaves the band due to personal reasons, and Daniel joins as the new bassist.
+                        Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer.
+                        Daniel is an experience bassist, who has played in several influencial Colombian rock bands, including Krönös and Legend Maker.
                     </p>
                 </div>
                 <div class="middle-text">
@@ -138,7 +141,6 @@
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" alt="Band photo" /></a>
-                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-03-small.jpg" alt="Band photo" /></a>
             </div>
 
         </div>

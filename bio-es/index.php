@@ -75,7 +75,7 @@
                         <i>"lo más probable es Spacebar-man, como la barra espaciadora de un teclado. Por que esa es la esencia de lo que hacemos"</i>.
                     </p> 
                     <p>
-                        Spacebarman, compuesto de JP, Pablo y Mauricio, es una banda de rock electrónico cuya música es una mezcla balanceada de elementos orgánicos y digitales.
+                        Spacebarman, compuesto por JP, Daniel y Mauricio, es una banda de rock electrónico cuya música es una mezcla balanceada de elementos orgánicos y digitales.
                         Su sonido es lo que podría imaginarse como la manifestación musical de un organismo cibernético inteligente y ambiguo.
                         Un organismo que al mismo tiempo antagoniza y adopta sus instintos—la búsqueda hedónica del placer, la presión de asumir un papel en un mega-sistema orgánico y estrictamente organizado.
                         ¿El resultado de esta batalla interna? La música de Spacebarman.
@@ -108,9 +108,10 @@
                         Esta dualidad esté mejor resumida en la segunda canción del EP, <a href="https://spacebarman.bandcamp.com/track/one-with-the-machine" target="_blank">One with the machine</a> ("Uno con la máquina"): <i>"I’m one with The Machine, that’s all I need. No need for medication, just let me be"</i> ("soy uno con la máquina, es todo o que necesito. No necesito medicamentos, solo estar en paz").
                     </p>
                     <p>
-                        En el verano de 2018 JP regresa a Barcelona y se encuentra con Mauricio y Pablo, colaborador de muchos años y proyectos, cristalizando a Spacebarman como un <i>power trio</i>.
-                        Mauricio es un multiinstrumentalista y productos con una larga carrera en su haber, habiendo tocado guitarra y bajo en conocidas bandas colombianas e internacionales como  Santa Sangre, Julio Nava, Ángel Negro, y Amos y los Santos. Con Spacebarman, se reinventa como baterista.
-                        Pablo fue también co-fundador de La Fábrica, y ha estado detrás del bajo, teclados y producción en varias bandas incluyendo Fuera de Quicio, Sicobot, y Polaroid.
+                        En el verano de 2018 JP regresa a Barcelona y se encuentra con Mauricio y Pablo, colaboradores de muchos años y proyectos, cristalizando a Spacebarman como un <i>power trio</i>.
+                        Pablo deja la banda en 2021 debido a motivos personales, y Daniel se incorpora como nuevo bajista.
+                        Mauricio es un multiinstrumentalista y productor con una larga carrera en su haber, habiendo tocado guitarra y bajo en conocidas bandas colombianas e internacionales como  Santa Sangre, Julio Nava, Ángel Negro, y Amos y los Santos. Con Spacebarman, se reinventa como baterista.
+                        Daniel es un experimentado bajista que ha tocado en influyentes agrupaciones de rock colombianas, incluyendo Krönös y Legend Maker.
                     </p>
                 </div>
                 <div class="middle-text">
@@ -142,7 +143,6 @@
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" alt="Band photo" /></a>
-                <a href="../images/Spacebarman-band-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-03-small.jpg" alt="Band photo" /></a>
             </div>
 
         </div>
