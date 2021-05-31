@@ -109,7 +109,7 @@
                         In summer 2018 JP returns to Barcelona and meets with Mauricio and long-time collaborator Pablo, crystallizing Spacebarman as a power trio.
                         In 2021 Pablo leaves the band due to personal reasons, and Daniel joins as the new bassist.
                         Mauricio is a multi-instrumentalist and music producer with a long standing career, having played guitar and bass with well-known Colombian and international acts such as Santa Sangre, Julio Nava, Ángel Negro, and Amos y los Santos. With Spacebarman, Mauricio reinvents himself as a drummer.
-                        Daniel is an experience bassist, who has played in several influencial Colombian rock bands, including Krönös and Legend Maker.
+                        Daniel is an talented bassist with experience in diverse genres like rock, metal, jazz, funk and latin, and with a passion for exploring the possibilities of the instrument. He has played in several influencial Colombian rock bands, including Krönös and Legend Maker.
                     </p>
                 </div>
                 <div class="middle-text">

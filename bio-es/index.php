@@ -111,7 +111,7 @@
                         En el verano de 2018 JP regresa a Barcelona y se encuentra con Mauricio y Pablo, colaboradores de muchos años y proyectos, cristalizando a Spacebarman como un <i>power trio</i>.
                         Pablo deja la banda en 2021 debido a motivos personales, y Daniel se incorpora como nuevo bajista.
                         Mauricio es un multiinstrumentalista y productor con una larga carrera en su haber, habiendo tocado guitarra y bajo en conocidas bandas colombianas e internacionales como  Santa Sangre, Julio Nava, Ángel Negro, y Amos y los Santos. Con Spacebarman, se reinventa como baterista.
-                        Daniel es un experimentado bajista que ha tocado en influyentes agrupaciones de rock colombianas, incluyendo Krönös y Legend Maker.
+                        Daniel es un talentoso bajista con experiencia en una gran diversidad de géneros como rock, metal, jazz, funk y géneros latinos, y apasionado por explorar las posibilidades de su instrumento. Ha tocado en influyentes agrupaciones de rock colombianas, incluyendo Krönös y Legend Maker.
                     </p>
                 </div>
                 <div class="middle-text">
