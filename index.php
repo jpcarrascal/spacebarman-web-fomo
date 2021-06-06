@@ -58,7 +58,20 @@
         
     <div id="container">
         <div>
-                <img id="hero-img" src="images/FOMO-cover.png" />
+                <?php
+                $default = '<img id="hero-img" src="images/FOMO-cover.png" />';
+                $json = "event/event.json";
+                if (file_exists($json) ) {
+                    $data = json_decode(file_get_contents($json));
+                    $expiration = strtotime($data->date) + 24*60*60;
+                    if ($expiration > strtotime("now")) {
+                        $default = '<a href="'.$data->link.'" target="_blank" alt="'.$data->text.'">';
+                        $default .= '<img id="hero-img" src="event/'.$data->img.'" />';
+                        $default .= '</a>';
+                    }
+                }
+                echo $default;
+                ?>
                 <!--
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 -->
