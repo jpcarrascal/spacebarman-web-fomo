@@ -304,10 +304,6 @@ h2.ep-title
     {
         font-size: 0.7em;
     }
-    #hero-img, #listen-button {
-        width: 100%;
-        border: 5px solid tomato;
-    }
 }
 
 /* Smartphones (landscape) ----------- */
