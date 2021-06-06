@@ -58,7 +58,7 @@
         
     <div id="container">
         <div>
-                <img width="560" src="images/FOMO-cover.png" />
+                <img id="hero-img" src="images/FOMO-cover.png" />
                 <!--
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqP2j7pND_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 -->

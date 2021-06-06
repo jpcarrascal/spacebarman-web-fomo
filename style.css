@@ -133,6 +133,10 @@ body
     transition: color 100ms, background-color 100ms;
 }
 
+#hero-img {
+    width: 560px;
+}
+
 .ctas
 {
     display: flex;
@@ -300,6 +304,10 @@ h2.ep-title
     {
         font-size: 0.7em;
     }
+    #hero-img, #listen-button {
+        width: 100%;
+        border: 5px solid tomato;
+    }
 }
 
 /* Smartphones (landscape) ----------- */
@@ -308,11 +316,14 @@ h2.ep-title
 }
 
 /* Smartphones (portrait) ----------- */
-@media only screen and (max-width : 320px) {
-
+@media only screen and (max-width : 560px) {
+    #container, #hero-img, #listen-button {
+        width: 100%;
+    }
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-height : 320px) {
 
 }
+
