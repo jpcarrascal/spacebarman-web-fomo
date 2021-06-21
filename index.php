@@ -65,9 +65,10 @@
                     $data = json_decode(file_get_contents($json));
                     $expiration = strtotime($data->date) + 24*60*60;
                     if ($expiration > strtotime("now") && file_exists("event/".$data->img) ) {
-                        $default = '<a href="'.$data->link.'" target="_blank" alt="'.$data->text.'">';
+                        $default = '<div class="event-frame">';
+                        $default .= '<a href="'.$data->link.'" target="_blank" alt="'.$data->text.'">';
                         $default .= '<img id="hero-img" src="event/'.$data->img.'" />';
-                        $default .= '</a>';
+                        $default .= '</a></div>';
                     }
                 }
                 echo $default;
