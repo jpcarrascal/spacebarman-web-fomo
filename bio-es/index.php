@@ -136,13 +136,15 @@
                 <div class="middle-text">
                     <h2>Photos</h2>
                     <p>
-                        Can Riera Rocks photos: <a href="http://www.julietaferoz.com/">Julieta Feroz</a>
+                        Fotos de la banda: Prema<br />
+                        Fotos conciertos: <a href="https://www.instagram.com/domsantoroviews/" target="_blank">Dom Santoro</a>
                     </p>
                 </div>
                 <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
-                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-live-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-03-small.jpg" alt="Band photo" /></a>
             </div>
 
         </div>
