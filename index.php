@@ -60,7 +60,7 @@
         <div>
                 <?php
                 $default = '<img id="hero-img" src="images/FOMO-cover.png" />';
-                $default = '<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z4ITVyycbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+                $default = '<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z4ITVyycbQ?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
                 $json = "event/event.json";
                 if ( file_exists($json) ) {
                     $data = json_decode(file_get_contents($json));
@@ -80,6 +80,12 @@
         </div>
 
         <div class="ctas">
+
+                    
+            <div class="cta-button" id="watch-button">
+                <a href="https://lockdown-vr.glitch.me/" target="_brank">VR Video</a>
+            </div>
+
             <div class="listen-button cta-button" id="listen-button">
                 <div class="listen-dropdown" id="listen-dropdown" <?php if($_GET["from"] == "fomolisten") echo 'style="display:block;"'; ?> >
                         <div id="tmp-fomo" <?php if($_GET["from"] == "fomolisten") echo 'style="display:block;"'; ?> >
@@ -132,12 +138,8 @@
                         </div>
                 </div>
 
-                Listen
+                Music
                 
-            </div>
-            
-            <div class="cta-button" id="watch-button">
-                <a href="https://lockdown-vr.glitch.me/" target="_brank">Watch VR video</a>
             </div>
             
         </div>
