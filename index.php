@@ -60,6 +60,7 @@
         <div>
                 <?php
                 $default = '<img id="hero-img" src="images/FOMO-cover.png" />';
+                $default = '<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z4ITVyycbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
                 $json = "event/event.json";
                 if ( file_exists($json) ) {
                     $data = json_decode(file_get_contents($json));
@@ -134,11 +135,11 @@
                 Listen
                 
             </div>
-            <!--
+            
             <div class="cta-button" id="watch-button">
                 <a href="https://lockdown-vr.glitch.me/" target="_brank">Watch VR video</a>
             </div>
-            -->
+            
         </div>
     </div>
 
