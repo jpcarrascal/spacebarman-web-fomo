@@ -60,7 +60,7 @@
         <div>
                 <?php
                 $default = '<img id="hero-img" src="images/FOMO-cover.png" />';
-                $default = '<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z4ITVyycbQ?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+                $default = '<iframe width="560" height="315" src="https://www.youtube.com/embed/7elgfIqfh_I?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
                 $json = "event/event.json";
                 if ( file_exists($json) ) {
                     $data = json_decode(file_get_contents($json));
