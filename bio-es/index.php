@@ -119,6 +119,9 @@
                 <br />
                 <h2>Videos</h2>
                     <div class="video-container">
+                        <iframe class="video" src="https://www.youtube.com/embed/7elgfIqfh_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="video-container">
                         <iframe class="video" src="https://www.youtube.com/embed/2qFQpK_iDQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div class="video-container">
