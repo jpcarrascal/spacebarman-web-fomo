@@ -58,7 +58,7 @@
 
     
 
-    <img class="hero-img" src="../images/Spacebarman-band-hero.jpg" alt="Band header photo" />
+    <img class="hero-img" src="../images/Spacebarman-mad_sci-hero.jpg" alt="Band header photo" />
 
     <div id="container">
 
@@ -134,15 +134,16 @@
                 <div class="middle-text">
                     <h2>Photos</h2>
                     <p>
-                        Band photos: Prema<br />
+                        Band photos: <a href="https://www.instagram.com/jacobo_abreo/" target="_blank">Jacobo Abreo</a>, Prema<br />
                         Live photos: <a href="https://www.instagram.com/domsantoroviews/" target="_blank">Dom Santoro</a>
                     </p>
                 </div>
+                <a href="../images/Spacebarman-band-hero.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-hero.jpg" alt="Band photo" /></a>
+                <a href="../images/Spacebarman-mad_sci01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-mad_sci01.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-band-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-01-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-band-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-band-02-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-01-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-01-small.jpg" alt="Band photo" /></a>
                 <a href="../images/Spacebarman-live-02-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-02-small.jpg" alt="Band photo" /></a>
-                <a href="../images/Spacebarman-live-03-big.jpg" target="_blank"><img class="band-photo" src="../images/Spacebarman-live-03-small.jpg" alt="Band photo" /></a>
             </div>
 
         </div>
