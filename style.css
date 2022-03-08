@@ -32,7 +32,7 @@ html
     font-family: century-gothic, sans-serif;
     font-size: 1em;
     background-color: #1a6a89;
-    background: url("images/web-bg.jpg") no-repeat center center fixed;
+    background: url("images/Spacebarman-mad_sci-hero.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -135,6 +135,7 @@ body
 
 #hero-img {
     width: 560px;
+    /*opacity: 0.9;*/
 }
 
 .ctas
